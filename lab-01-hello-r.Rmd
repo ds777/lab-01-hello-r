@@ -1,7 +1,7 @@
 ---
 title: "Lab 01 - Hello R"
-author: "Carlos Mendez"
-date: "1/14/2018"
+author: "Student Name"
+date: "1/19/2018"
 output: html_document
 ---
 
