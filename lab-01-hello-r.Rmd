@@ -2,7 +2,13 @@
 title: "Lab 01 - Hello R"
 author: "Student Name"
 date: "1/19/2018"
-output: html_document
+output:
+  html_notebook:
+    fig_height: 4
+    fig_width: 6
+    number_sections: yes
+    theme: paper
+    toc: yes
 ---
 
 ### Load packages
